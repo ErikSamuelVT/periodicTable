@@ -17,8 +17,9 @@ _Herramientas que necesitas para probar el proyecto._
 
 _Para la instalación del proyecto en tu equipo primero debes descargar los archivos. Una vez descargados los archivos sigue ejecutar los siguientes comandos en tu consola._
 ```
-cd React-Search-Images
+cd periodicTable
 code .
+click derecho y abrir con liveserver
 ```
 * ***Abrir con liveserver***
 
