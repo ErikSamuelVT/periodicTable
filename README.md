@@ -1,6 +1,6 @@
 # PeriodicTable
 
-_Proyecto para reforzar HMTML y CSS_ 🧠
+_Proyecto para reforzar HTML y CSS_ 🧠
 
 ## Comenzando 🚀
 
