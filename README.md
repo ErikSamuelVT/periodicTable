@@ -30,7 +30,7 @@ _Una vez hecho eso se abrirá una página en tu navegador, recuerda que si te gu
 _Si realizaste los pasos anteriores correctamente tendrás algo similar a esto..._
 
 ### Screenshots 📷
-* working 😅
+![Captura](https://user-images.githubusercontent.com/61395827/102700550-17bd6780-4214-11eb-8e98-70226aa47d21.PNG)
 ## Construido con 🛠️
 
 _Algunas herramientas que se emplearon para este proyecto son:_
